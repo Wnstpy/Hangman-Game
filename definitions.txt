@@ -1,0 +1,50 @@
+Category 1: Computing
+APACHE: Software that serves webpages over the internet.
+BIOS: Set of instructions located in a chip on the motherboard.
+BITRATE: The number of bits that are sent per second.
+BITSIZE: The size of the bit that is sent from one computer to another.
+CIDR: A method for allocating IP address and IP routing.
+INTERNET: A worldwide public internetwork.
+INTRANET: A private internetwork.
+LINUX: Most popular operating system for web servers.
+MYSQL: Popular open source database management system.
+OVERFLOW: Occurs when the amount exceeds the computation capacity.
+PHP: Popular web scripting language.
+RAM: Primary short term storage on the computer.
+REGISTER: Temporary storage built in the CPU.
+STORAGE: Space available to keep something.
+WORKSTATIONS: Personal computers and laptops.
+
+Category 2: Programming
+ALGORITHM: An ordered set of unambiguous executable steps defining a terminating process.
+BOOLEAN: A data type that contains either true or false values.
+CLASS: A blueprint to create objects.
+COMMENTS: Written by programmer to make programs more readable and easier to work on.
+COMPILER: A small computer program that translates instructions into efficient machine code, all at once.
+CONCATENATION: The action of linking things together in a series.
+FLOWCHART: A graphical representation of the sequence of operations in an information system or program.
+INDENTATION: Spacing before the lines of code, allowing it to be more readable.
+INTERPRETER: A small computer program that directly executes instructions in the source program, line by line.
+JAVASCRIPT: A programming language commonly used in web development. 
+LOOP: Reiterates line(s) of code until a certain condition is met, else it will operate indefinitely if no condition is set.
+PARAMETER: A special kind of variable used in a subroutine to refer to one of the pieces of data provided as input to the subroutine.
+PSEUDOCODE: A mixture of the English Language and a programming language.
+STRING: A data type that is a series of characters inside double or single quotes.
+VARIABLES: Container that can be empty or hold a date value.
+
+Category 3: Accounting
+ACCOUNT: A formal record in the general ledger that is used to sort and store transactions.
+ASSET: Anything the company owns that has monetary value.
+BOOKKEEPING: The act of recording transactions properly in a business' accounting file.
+DIVERSIFICATION: A method of reducing risk.
+DEPRECIATION: Accounts for the loss of value in an asset over time.
+EQUITY: The portion of the company that is owned by the investors and owners.EXPENSE: Any cost incurred by the business.
+EXPENSE: Any cost incurred by the business.
+FIFO: An accounting method for valuing goods using the cost of the goods that were first acquired.
+INSOLVENCY: A state where an individual or organisation can no longer meet financial obligations with lender(s) when their debts come due.
+INTEREST: Amount paid on a loan or line of credit that exceeds the repayment of the principal balance.
+INVENTORY: The assets that a company has purchased to sell to its customers that remain unsold.
+LIABILITY: All debts that a company has yet to pay.
+LIQUIDITY: Determines how quickly something can be converted into cash.
+REVENUE: Any money earned by the business.
+ROI: A measurement of the financial return on a particular investment relative to its cost.
